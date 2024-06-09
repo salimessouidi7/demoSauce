@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Jun 09 02:11:49 GMT+01:00 2024","Sun Jun 09 02:11:49 GMT+01:00 2024","5","Suite","Test","sauceTest.LoginPageTest","sauceTest.LoginPageTest","setUp","setUp",""
+"passed","Sun Jun 09 02:13:18 GMT+01:00 2024","Sun Jun 09 02:13:20 GMT+01:00 2024","1588","Suite","Test","sauceTest.LoginPageTest","sauceTest.LoginPageTest","loginTest","loginTest",""
