@@ -5,8 +5,8 @@
     <classes>
       <class name="sauceTest.LoginPageTest">
         <methods>
-          <include name="loginWithUserData" invocation-numbers="1"/>
           <include name="tearDown"/>
+          <include name="loginWithCsvData" invocation-numbers="1"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- sauceTest.LoginPageTest -->
