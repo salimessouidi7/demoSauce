@@ -1,2 +1,2 @@
 sauceTest\LoginPageTest.class
-utils\BaseTest.class
+setup\BaseTest.class
