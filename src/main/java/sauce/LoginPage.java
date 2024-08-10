@@ -37,7 +37,6 @@ public class LoginPage {
 		enterUsername(username);
 		enterPassword(password);
 		clickLoginButton();
-		wait.until(ExpectedConditions.urlContains("/inventory.html"));
 	}
 
 }
